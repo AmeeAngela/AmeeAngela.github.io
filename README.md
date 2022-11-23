@@ -18,3 +18,6 @@ My Favorite stuff
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3W4U7TEgILGpq0EmquurtH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<img src="https://i.pinimg.com/564x/24/03/0d/24030dd653e404dc05aca594f5cba856.jpg" height="300">
